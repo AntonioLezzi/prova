@@ -1,0 +1,4 @@
+Implementare 3 file html che consentano di definire una schermata di login, una di registrazione e l'ultima schermata di benvenuto.
+Nel dettaglio si richiede che per il Login, questa debba mostrare un form che dia la possibilità di mostrare unsername e password.
+La schermata di Registrazione deve chiedere all'utente di inserire i campi: username, password, nome e cognome ed età.
+La schermata di benvenuto può contenere un messaggio di benvenuto e la visualizzazione di un prodotto costituito da immagine, titolo, descrizione e prezzo
